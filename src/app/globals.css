@@ -1,0 +1,40 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    --navy-100: 229 81% 17%;
+    --navy-90: 229 48% 25%;
+    --navy-80: 228 33% 33%;
+    --navy-70: 229 23% 42%;
+
+    --royal-100: 228 74% 30%;
+    --royal-90: 228 54% 37%;
+    --royal-80: 228 40% 44%;
+    --royal-70: 228 31% 51%;
+
+    --sapphire-100: 229 61% 44%;
+    --sapphire-80: 229 48% 55%;
+    --sapphire-60: 228 49% 66%;
+    --sapphire-40: 229 47% 78%;
+
+    --cornflower-100: 229 98% 65%;
+    --cornflower-70: 228 100% 76%;
+    --cornflower-40: 229 100% 86%;
+    --cornflower-8: 227 100% 97%;
+
+    --neutral-100: 0 0% 0%;
+    --neutral-90: 227 29% 19%;
+    --neutral-80: 226 24% 28%;
+    --neutral-70: 226 20% 37%;
+    --neutral-60: 227 15% 48%;
+    --neutral-50: 228 14% 59%;
+    --neutral-40: 225 18% 69%;
+    --neutral-30: 227 20% 81%;
+    --neutral-20: 229 23% 91%;
+    --neutral-10: 230 25% 95%;
+    --neutral-5: 240 20% 98%;
+    --neutral-0: 0 0% 100%;
+  }
+}
